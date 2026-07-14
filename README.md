@@ -1,7 +1,7 @@
 # 👋 Hi 👋, I'm Daniyal
 **A passionate Web Developer | Front-End Developer | Aspiring Full-Stack Developer from Pakistan 🇵🇰**
 
-Email Me 👉 👉 **your-email@example.com** For Collaboration, Projects, or Anything Else. 😊😊
+Email Me 👉 👉 **daniyal751.751@gmail.com** For Collaboration, Projects, or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Building a website for an organization (OID)
 - 🌱 **I’m currently learning:** React
