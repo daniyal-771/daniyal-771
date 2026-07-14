@@ -27,7 +27,7 @@ Email Me 👉 👉 **your-email@example.com** For Collaboration, Projects, or An
 ![](https://github-profile-trophy.vercel.app/?username=daniyal-771&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <div align="center">
-    <img src="https://profile-readme-generator.com/assets/  snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/daniyal-771/daniyal-771/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ### ✍️ Random Dev Quote
