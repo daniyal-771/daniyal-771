@@ -8,7 +8,6 @@ Email Me 👉 👉 **daniyal.me71@gmail.com** For Collaboration, Projects, or An
 - 👯 **I’m looking to collaborate on:** Web Development Projects & Tech Support
 - 🤝 **I’m looking for help with:** Improving my React and Full-Stack Development skills
 - 💬 **Ask me about:** HTML, CSS, JavaScript, Responsive Design, and Tech Support
-- 📫 **How to reach me:** daniyal.me71@gmail.com
 - 😄 **Pronouns:** Daniyal
 - ⚡ **Fun fact:** I turn coffee ☕ into clean code and bugs 🐞 into learning opportunities!
 
